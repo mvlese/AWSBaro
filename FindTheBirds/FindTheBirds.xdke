@@ -1,0 +1,104 @@
+{
+  "project": {
+    "projectSettingsVersion": "3.0.0",
+    "currentBuildConfiguration": null,
+    "projectFiles": {},
+    "projectDirectories": {}
+  },
+  "editorTab": {
+    "currentEditorMode": 0
+  },
+  "iot-tab": {
+    "fileStatus": {
+      "icon.png": {
+        "previousModTime": 1504444500684,
+        "modified": 1504444500684,
+        "seen": true,
+        "name": "icon.png"
+      },
+      "LICENSE.md": {
+        "previousModTime": 1504444500684,
+        "modified": 1504444500684,
+        "seen": true,
+        "name": "LICENSE.md"
+      },
+      "main.js": {
+        "previousModTime": 1510012659847,
+        "modified": 1510012659847,
+        "seen": true,
+        "name": "main.js"
+      },
+      "package.json": {
+        "previousModTime": 1504444502890,
+        "modified": 1504444502890,
+        "seen": true,
+        "name": "package.json"
+      },
+      "README.md": {
+        "previousModTime": 1504444500684,
+        "modified": 1504444500684,
+        "seen": true,
+        "name": "README.md"
+      },
+      "UartTest2.xdk": {
+        "previousModTime": 1504444500684,
+        "modified": 1504444500684,
+        "seen": true,
+        "name": "UartTest2.xdk"
+      },
+      "UartTest2.xdke": {
+        "previousModTime": 1504452894501,
+        "modified": 1504452894501,
+        "seen": true,
+        "name": "UartTest2.xdke"
+      },
+      "xdk/project-info.json": {
+        "previousModTime": 1504444502890,
+        "modified": 1504444502890,
+        "seen": true,
+        "name": "xdk/project-info.json"
+      },
+      "lcdSerial.js": {
+        "previousModTime": 1504444500684,
+        "modified": 1504444500684,
+        "seen": true,
+        "name": "lcdSerial.js"
+      },
+      "LcdSerial.js": {
+        "previousModTime": 1504444500684,
+        "modified": 1504444500684,
+        "seen": true,
+        "name": "LcdSerial.js"
+      },
+      "AWSBaro.xdk": {
+        "previousModTime": 1504444500684,
+        "modified": 1504444500684,
+        "seen": true,
+        "name": "AWSBaro.xdk"
+      },
+      "AWSBaro.xdke": {
+        "previousModTime": 1505266368666,
+        "modified": 1505266368666,
+        "seen": true,
+        "name": "AWSBaro.xdke"
+      },
+      "FindTheBirds.xdk": {
+        "previousModTime": 1504444500684,
+        "modified": 1504444500684,
+        "seen": true,
+        "name": "FindTheBirds.xdk"
+      },
+      "FindTheBirds.xdke": {
+        "previousModTime": 1510012460314,
+        "modified": 1510012460314,
+        "seen": true,
+        "name": "FindTheBirds.xdke"
+      }
+    },
+    "boardFileStatus": {
+      "main.js": {
+        "previousModTime": 1510012664346
+      }
+    }
+  }
+}
